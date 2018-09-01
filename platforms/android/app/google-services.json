@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837295654762",
+    "firebase_url": "https://uber-firebase-9e289.firebaseio.com",
+    "project_id": "uber-firebase-9e289",
+    "storage_bucket": "uber-firebase-9e289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837295654762:android:2af9380143729c62",
+        "android_client_info": {
+          "package_name": "com.uberization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837295654762-88hl4m2ol704cjfl084g6h0ki2l0bo7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBboaxPqgXRD-pTS7-iilsNm1y5BiWc-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
