@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ad414de913ee5bad161e71d683521d06\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {

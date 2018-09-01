@@ -12,6 +12,9 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.uberization"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.uberization"
     }
   },
   "dependent_plugins": {}

@@ -28,6 +28,10 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+		var ref = cordova.InAppBrowser.open('https://uberization-web.herokuapp.com/login.html', '_self', 'location=no');
+		window.open = cordova.InAppBrowser.open;
+		//window.location.href="https://uberization-web.herokuapp.com/login.html";
+		//http://localhost:8000/browser/www/index.html
     },
 
     // Update DOM on a Received Event
