@@ -44,10 +44,6 @@
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon.png.flat",
-        "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\mipmap-xhdpi\\icon.png"
-    },
-    {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_next_item.png.flat",
         "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_next_item.png"
     },
@@ -76,12 +72,12 @@
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ad414de913ee5bad161e71d683521d06\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
@@ -122,10 +118,6 @@
     {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
-        "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
     },
     {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxhdpi_screen.png.flat",
@@ -220,12 +212,12 @@
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\377370eaa24a9caf038af10448771dd4\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_remove.png.flat",
         "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
@@ -246,10 +238,6 @@
     {
         "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-ldpi_icon.png.flat",
-        "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\mipmap-ldpi\\icon.png"
     },
     {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
@@ -640,10 +628,6 @@
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ad414de913ee5bad161e71d683521d06\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
-        "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
-    },
-    {
         "merged": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
         "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\a955565dc0b8474abeef2cc26fe87738\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
@@ -658,10 +642,6 @@
     {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi_screen.png.flat",
         "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\drawable-land-mdpi\\screen.png"
-    },
-    {
-        "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon.png.flat",
-        "source": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
     },
     {
         "merged": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
