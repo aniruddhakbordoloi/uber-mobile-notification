@@ -109,12 +109,6 @@
                 android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
-
-        <provider
-            android:name="com.crashlytics.android.CrashlyticsInitProvider"
-            android:authorities="com.uberization.crashlyticsinitprovider"
-            android:exported="false"
-            android:initOrder="100" />
         <!--
              FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
@@ -191,6 +185,18 @@
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
+        <!--
+             Receives GooglePlay execution requests and forwards them to the
+             appropriate internal service.
+        -->
+        <service
+            android:name="com.firebase.jobdispatcher.GooglePlayReceiver"
+            android:exported="true"
+            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+            </intent-filter>
+        </service>
 
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
@@ -206,12 +212,12 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.1.0" />
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
+
+        <provider
+            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+            android:authorities="com.uberization.crashlyticsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
     </application>
 
 </manifest>

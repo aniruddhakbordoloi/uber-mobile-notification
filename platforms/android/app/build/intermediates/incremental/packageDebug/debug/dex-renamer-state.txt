@@ -1,4 +1,7 @@
-#Sun Sep 02 15:48:23 IST 2018
+#Sun Sep 02 20:57:24 IST 2018
 base.0=C\:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.1=classes2.dex
 renamed.0=classes.dex
+file.1=C\:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes2.dex
+base.1=C\:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 file.0=C\:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

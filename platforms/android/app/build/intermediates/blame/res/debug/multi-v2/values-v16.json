@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\git\\uber-mobile-notification\\uberization\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ad414de913ee5bad161e71d683521d06\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\47ae18e03c8ad5c3989cfad6caa6ccc6\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -12,20 +12,24 @@
                         "endColumns": "65",
                         "endOffsets": "116"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\git\\uber-mobile-notification\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\ad414de913ee5bad161e71d683521d06\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\CJUSER\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f2d3857537c8b41ed33ec38aad8347d2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]

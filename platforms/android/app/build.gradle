@@ -23,6 +23,7 @@ buildscript {
     repositories {
         mavenCentral()
         jcenter()
+		google()
         maven {
             url "https://maven.google.com"
         }
@@ -30,14 +31,26 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.0'
+		classpath 'com.google.firebase:firebase-core:16.0.3'
+		classpath 'com.google.firebase:firebase-iid:17.0.0'
+		classpath 'com.google.firebase:firebase-messaging:17.3.0'
+		classpath 'com.firebase:firebase-jobdispatcher:0.5.2'
+		
+		classpath 'com.android.support:appcompat-v7:27.1.1'
+		classpath 'com.android.support:animated-vector-drawable:27.1.1'
+		classpath 'com.android.support:support-v4:27.1.1'
+		classpath 'com.android.support:support-compat:27.1.1'
+		
+		
     }
 }
 
 // Allow plugins to declare Maven dependencies via build-extras.gradle.
 allprojects {
     repositories {
-        mavenCentral();
+        mavenCentral()
         jcenter()
+		google()
     }
 }
 
@@ -179,6 +192,7 @@ task cdvPrintProps << {
 android {
 
     defaultConfig {
+		multiDexEnabled true
         versionCode cdvVersionCode ?: new BigInteger("" + privateHelpers.extractIntFromManifest("versionCode"))
         applicationId privateHelpers.extractStringFromManifest("package")
 
